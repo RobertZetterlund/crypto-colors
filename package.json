@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "canvas": "^2.9.3",
+    "convert-svg-to-png": "^0.6.4",
+    "extract-colors": "^1.1.22"
+  }
+}
